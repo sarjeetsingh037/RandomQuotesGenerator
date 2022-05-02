@@ -1,0 +1,15 @@
+.container {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vh;
+    background-color: aqua;
+}
+
+.quote {
+    background-color: bisque;
+    padding: 10px;
+    margin: 10px;
+}
